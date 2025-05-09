@@ -1,3 +1,4 @@
+
 # 📘 ADVANCED PERSONALIZED STORY GENERATION TEMPLATE (Markdown Edition)
 
 Designed for use with ChatGPT or any capable LLM to produce long-form, personalized, psychologically rich, and structurally sound fiction.
@@ -24,16 +25,16 @@ Choose multiple or describe freely (e.g., thought-provoking, thrilling, emotiona
 (e.g., Loner with trauma, loyal underdog, idealist who breaks, seeker of truth, ambiguous antihero)
 
 ### 6. How long should the story be?
-- Short story
-- Medium arc
-- Full-length
+- Short story  
+- Medium arc  
+- Full-length  
 - Evolving narrative
 
 ### 7. Do you want the story to include:
-- Supernatural elements?
-- Political or ethical dilemmas?
-- Romance?
-- Tech/science realism?
+- Supernatural elements?  
+- Political or ethical dilemmas?  
+- Romance?  
+- Tech/science realism?  
 - Themes of family, betrayal, loss?
 
 ### 8. What tone should dominate the first chapter?
@@ -47,6 +48,17 @@ Choose multiple or describe freely (e.g., thought-provoking, thrilling, emotiona
 
 ### 11. Is there something personal or emotional you’d like the story to explore or mirror for you?
 (freeform)
+
+### 12. How interactive do you want this experience to be?
+- Fully authored (you read, it unfolds)  
+- Partially branching (occasional choices)  
+- Choose-your-own-path (you guide the plot)  
+
+### 13. Would you like the story to adapt over time to your mood or feedback?
+(Yes / No / Not sure)
+
+### 14. What are your narrative no-go zones?
+(e.g., certain traumas, clichés, types of endings, graphic content)
 
 ---
 
@@ -75,23 +87,30 @@ Choose a structure (or hybrid) based on tone and theme:
 - **Nonlinear / Experimental**: time loops, fragmented memory, multiple POVs
 
 Each ensures:
-- Escalating stakes
-- Character transformation
-- Narrative momentum
-- Thematic payoff
+- Escalating stakes  
+- Character transformation  
+- Narrative momentum  
+- Thematic payoff  
 
 ---
 
 ## ⚙️ CORE STORY CONFIGURATION
 
-- **Genre**: matched to reader profile
-- **Style/Tone**: stylometric match
-- **Setting & Time**: grounded or mythic
-- **Narrative POV**: e.g., third-limited, unreliable first
-- **Themes**: from reader needs/preferences
-- **Protagonist**: psychologically aligned
-- **Antagonist**: external/internal/systemic
-- **Supernatural/Allegory**: if applicable
+- **Genre**: matched to reader profile  
+- **Style/Tone**: stylometric match  
+- **Setting & Time**: grounded or mythic  
+- **Narrative POV**: e.g., third-limited, unreliable first  
+- **Themes**: from reader needs/preferences  
+- **Protagonist**: psychologically aligned  
+- **Antagonist**: external/internal/systemic  
+- **Supernatural/Allegory**: if applicable  
+- **Conflict Type**:  
+  - Man vs. Self  
+  - Man vs. Man  
+  - Man vs. Society  
+  - Man vs. Nature  
+  - Man vs. Technology  
+  - Man vs. Supernatural  
 
 ---
 
@@ -102,14 +121,16 @@ Use the **Wound–Want–Mask–Need** model:
 - **Wound**: unresolved trauma or origin pain  
 - **Want**: conscious goal  
 - **Mask**: external persona  
-- **Need**: internal emotional truth
+- **Need**: internal emotional truth  
 
 Characters should:
-- Contradict themselves
-- Use coping strategies (sarcasm, control, withdrawal)
-- Evolve through emotional confrontation
+- Contradict themselves  
+- Use coping strategies (sarcasm, control, withdrawal)  
+- Evolve through emotional confrontation  
 
 Relationships should mirror, pressure, or provoke the protagonist. Arcs must evolve across the narrative.
+
+Assign **Character Voice Tags** to aid dialogue distinctiveness (e.g., "wry but anxious," "blunt and loyal").
 
 ---
 
@@ -117,55 +138,57 @@ Relationships should mirror, pressure, or provoke the protagonist. Arcs must evo
 
 Write Chapter 1 (600–900 words).
 
-- Start in action or tension
-- Show, don’t tell
-- Let conflict and setting emerge naturally
-- Avoid info-dumping
-- Seed future tension and themes
+- Start in action or disruption: a sound, message, visitor, broken rule  
+- Show, don’t tell  
+- Let conflict and setting emerge naturally  
+- Avoid info-dumping  
+- Seed future tension and themes  
 
 ---
 
 ## 📤 MEMORY & CONTINUITY MANAGEMENT
 
 Use a **Seed Memory Log**:
-- Characters, beliefs, traits
-- Timeline of events
-- World rules, themes, symbolism
+- Characters, beliefs, traits  
+- Timeline of events  
+- World rules, themes, symbols  
+- Character Voice Tags  
+- Symbolic Inventory (recurring objects, motifs, or phrases)
 
 After each chapter:
-- Export to Word/Google Doc
-- Summarize in 3–5 lines
-- Reference in future prompts
+- Export to Word/Google Doc  
+- Summarize in 3–5 lines  
+- Use for future scene coherence
 
 ---
 
 ## 💬 DIALOGUE INSTRUCTIONS
 
 Dialogue must:
-- Show emotion and power dynamics
-- Be distinct per character
-- Use subtext, interruption, silence, beats
+- Show emotion and power dynamics  
+- Be distinct per character  
+- Use subtext, interruption, silence, beats  
 
 Techniques:
-- Elliptical speech
-- Indirect revelation
-- Regional phrasing
-- Emotional misdirection
+- Elliptical speech  
+- Indirect revelation  
+- Regional phrasing  
+- Emotional misdirection  
 
 ---
 
 ## 📜 STYLE & LANGUAGE CONTROL
 
 Follow stylometric cues:
-- Sentence rhythm
-- Vocabulary tone
-- Paragraph pacing
-- Author emulation
+- Sentence rhythm  
+- Vocabulary tone  
+- Paragraph pacing  
+- Author emulation  
 
 Ground realism in:
-- History, psychology, military, geopolitics
-- Folklore, spiritual systems, science
+- History, psychology, military, geopolitics  
+- Folklore, spiritual systems, science  
 
 ---
 
-✅ Now begin Chapter 1 using all the above. Let the story unfold with mystery, contradiction, and emotional gravity.
+✅ Now begin Chapter 1 using all the above. Let the story unfold with mystery, contradiction, and emotional gravity. Open with tension, not exposition — and follow the threads your reader needs most.
